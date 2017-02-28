@@ -1,0 +1,7 @@
+"0","matplot("
+"0","	GDP_ON_Proportions[-1]"
+"0","	,ylim = c(0,30)"
+"0","	,ylab = ""Percentage of Total"""
+"0","	,xlab = ""Year Index"""
+"0","	,type = 'l'"
+"0",")"

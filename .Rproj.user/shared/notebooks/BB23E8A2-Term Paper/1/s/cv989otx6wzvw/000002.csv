@@ -1,0 +1,6 @@
+"0","Export_Industry <- read.csv(""Data/Export_Industries.csv"", header = T, stringsAsFactors = F)"
+"0","dotchart(as.matrix(Export_Industry[c(2,3)])"
+"0","		 , labels = Export_Industry[[1]]"
+"0","		 , cex = 0.7"
+"0","		 , xlab = ""CAD Millions"""
+"0","		 , main = ""Top 25 Exporting Industries"")"

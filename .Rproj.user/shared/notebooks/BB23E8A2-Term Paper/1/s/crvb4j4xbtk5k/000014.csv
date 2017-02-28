@@ -1,0 +1,6 @@
+"0","legend("
+"0","	""topleft"""
+"0","	,legend = c(""Overall"",""Western"",""Eastern"",""Northern"")"
+"0","	,col = c(""black"",""red"",""blue"",""green"")"
+"0","	,pch=1"
+"0",")"

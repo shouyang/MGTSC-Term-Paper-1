@@ -1,0 +1,6 @@
+"0","legend(""topleft"""
+"0","	   ,legend = c(""Goods Industries"",""Service Industries"",""Manufacturing"",""Industrial Production"")"
+"0","	   ,col = c(""black"",""blue"",""red"",""green"")"
+"0","	   ,cex = 0.6"
+"0","	   ,lty = 1"
+"0",")"

@@ -1,0 +1,6 @@
+"0","legend(""bottomleft"""
+"0","	   ,legend = c(""CAN"",""ON"",""QB"",""PEI"",""NS"",""NFLL"")"
+"0","	   ,col = c(""black"",""blue"",""red"",""green"",""orange"",""pink"",""purple"")"
+"0","	   ,lty = 1"
+"0","	   ,cex = 0.6"
+"0",")"
